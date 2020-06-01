@@ -2,9 +2,10 @@
 
 **Sepecification**
 
-Wrtie a program that reads in a text file and produces the sum of all the numbers contained. Use "Prob-2-Input.txt" as the input file for your program.
+Write a program that reads in a text file and produces the sum of all the numbers contained. Use "Prob-2-Input.txt" as the input file for your program.
 
 The file:
+
 - may have blank lines
 - may have on a single number in a line
 - may have multiple numbers in a line separated by spaces
@@ -12,6 +13,7 @@ The file:
 **Output**
 
 - print the numbers in a single column with the sum at the bottom
+- treat all the numbers individually
 
 ```
 111
